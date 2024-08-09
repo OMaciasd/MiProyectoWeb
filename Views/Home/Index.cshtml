@@ -1,0 +1,19 @@
+@model MiProyectoWeb.Models.IndexModel
+
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+	<h1 class="display-4">Welcome</h1>
+	<p>Learn about <a href="https://aka.ms/aspnetcore/">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@if (Model != null && !string.IsNullOrEmpty(Model.Propiedad))
+{
+	<p>@Model.Propiedad</p>
+}
+else
+{
+	<p>No se encontraron datos.</p>
+}

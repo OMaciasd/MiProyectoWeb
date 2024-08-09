@@ -1,0 +1,7 @@
+C:\c#_project\MiProyectoWeb\publish\MiProyectoWeb.exe
+C:\c#_project\MiProyectoWeb\publish\appsettings.Development.json
+C:\c#_project\MiProyectoWeb\publish\appsettings.json
+C:\c#_project\MiProyectoWeb\publish\MiProyectoWeb.dll
+C:\c#_project\MiProyectoWeb\publish\MiProyectoWeb.deps.json
+C:\c#_project\MiProyectoWeb\publish\MiProyectoWeb.runtimeconfig.json
+C:\c#_project\MiProyectoWeb\publish\MiProyectoWeb.pdb

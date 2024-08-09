@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "IkVJYB/JwxJmEdA02xiOojDDeUz938iD82lPjzZYP1I=",
+  "Source": "MiProyectoWeb",
+  "BasePath": "_content/MiProyectoWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MiProyectoWeb\\wwwroot",
+      "Source": "MiProyectoWeb",
+      "ContentRoot": "C:\\c#_project\\MiProyectoWeb\\wwwroot\\",
+      "BasePath": "_content/MiProyectoWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\c#_project\\MiProyectoWeb\\wwwroot\\css\\site.css",
+      "SourceId": "MiProyectoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\c#_project\\MiProyectoWeb\\wwwroot\\",
+      "BasePath": "_content/MiProyectoWeb",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
